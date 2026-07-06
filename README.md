@@ -57,7 +57,7 @@ Focus:         Building end-to-end, production-ready AI applications
 <br/>
 <sub>Amity University Punjab</sub>
 <br/>
-<sub><i>Final Year — Expected Graduation 2026</i></sub>
+<sub><i>Final Year — Expected Graduation 2027</i></sub>
 </td>
 </tr>
 </table>
