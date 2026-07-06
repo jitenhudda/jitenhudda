@@ -136,13 +136,13 @@ I'm currently looking for internship opportunities in **AI/ML, Data Analytics, a
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,github" />
-
-<br/><br/>
-
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Dev--C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+
+</div>
 
 </div>
 
@@ -150,27 +150,18 @@ I'm currently looking for internship opportunities in **AI/ML, Data Analytics, a
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jitenhudda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A6BFF&icon_color=00C896&text_color=c9d1d9&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jitenhudda&theme=tokyonight&hide_border=true&background=0D1117&stroke=8A6BFF&ring=00C896&fire=8A6BFF&currStreakLabel=c9d1d9" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=jitenhudda&show_icons=true&hide_border=true&count_private=true&theme=transparent&title_color=8A6BFF&icon_color=00C896&text_color=c9d1d9&rank_icon=github" />
 
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitenhudda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A6BFF&text_color=c9d1d9" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jitenhudda&theme=tokyonight" />
+<img width="48%" src="https://streak-stats.demolab.com?user=jitenhudda&theme=transparent&hide_border=true&ring=8A6BFF&fire=00C896&currStreakLabel=8A6BFF&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=808080" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jitenhudda&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=c9d1d9&line=8A6BFF&point=00C896" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jitenhudda&theme=github-dark&hide_border=true&bg_color=00000000&color=c9d1d9&line=8A6BFF&point=00C896" />
 
 </div>
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" height="4"/>
-</div>
-
-<br/>
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/2111/2111425.png" width="26"/>&nbsp; Connect With Me
 
