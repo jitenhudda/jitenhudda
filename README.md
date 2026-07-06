@@ -209,19 +209,39 @@ Data analytics project focused on supply chain optimization, using exploratory d
 
 ## Contribution Snake
 
-<img src="https://raw.githubusercontent.com/jitenhudda/jitenhudda/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+name: generate snake animation
 
-<sub>Generated automatically via GitHub Actions on every contribution — see setup note below.</sub>
+on:
+  schedule:
+    - cron: "0 */24 * * *"   # runs once a day
+  workflow_dispatch:          # allows manual runs from the Actions tab
+  push:
+    branches:
+      - main
 
-</div>
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
 
-<br/>
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
----
-
-<br/>
-
-<div align="center">
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 ## GitHub Trophies
 
