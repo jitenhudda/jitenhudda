@@ -150,28 +150,21 @@ I'm currently looking for internship opportunities in **AI/ML, Data Analytics, a
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jitenhudda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitenhudda&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
+<img width="90%" src="https://streak-stats.demolab.com?user=jitenhudda&theme=tokyonight&hide_border=true&background=00000000&ring=8A6BFF&fire=00C896&currStreakLabel=8A6BFF"/>
 
 <br/><br/>
 
-<img width="100%" src="https://streak-stats.demolab.com?user=jitenhudda&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jitenhudda&theme=tokyo-night&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jitenhudda&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=8A6BFF&point=00C896&color=C9D1D9"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" height="4"/>
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" height="4"/>
 </div>
 
 <br/>
----
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/2111/2111425.png" width="26"/>&nbsp; Connect With Me
 
@@ -197,11 +190,9 @@ I'm currently looking for internship opportunities in **AI/ML, Data Analytics, a
 
 <br/>
 
-<div align="center">
-
-<i>"The best way to predict the future is to build it — one model, one pipeline, one commit at a time."</i>
-
-<br/><br/>
+<p align="center">
+<i>"Success is the sum of small efforts, repeated day in and day out."</i>
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=jitenhudda&style=for-the-badge&color=8A6BFF&label=Profile+Views" />
 
