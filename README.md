@@ -194,7 +194,13 @@ I'm currently looking for internship opportunities in **AI/ML, Data Analytics, a
 <i>"Success is the sum of small efforts, repeated day in and day out."</i>
 </p>
 
+<br/><br/>
+
+<div align="center">
+
 <img src="https://komarev.com/ghpvc/?username=jitenhudda&style=for-the-badge&color=8A6BFF&label=Profile+Views" />
+
+</div>
 
 <br/>
 
