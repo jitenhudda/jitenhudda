@@ -146,21 +146,27 @@ I'm currently looking for internship opportunities in **AI/ML, Data Analytics, a
 
 </div>
 
-## <img src="https://cdn-icons-png.flaticon.com/512/2103/2103832.png" width="26"/>&nbsp; GitHub Analytics
+## <img src="https://cdn-icons-png.flaticon.com/512/2103/2103832.png" width="26"/>&nbsp; Engineering Metrics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=jitenhudda&show_icons=true&hide_border=true&count_private=true&theme=transparent&title_color=8A6BFF&icon_color=00C896&text_color=c9d1d9&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jitenhudda&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&count_private=true&rank_icon=github" />
 
-<img width="48%" src="https://streak-stats.demolab.com?user=jitenhudda&theme=transparent&hide_border=true&ring=8A6BFF&fire=00C896&currStreakLabel=8A6BFF&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=808080" />
+<img width="49%" src="https://streak-stats.demolab.com?user=jitenhudda&theme=github-dark-blue&hide_border=true&background=000000&ring=58A6FF&fire=79C0FF&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=FFFFFF&sideLabels=C9D1D9&dates=8B949E" />
 
-<br/><br/>
+<br><br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jitenhudda&theme=github-dark&hide_border=true&bg_color=00000000&color=c9d1d9&line=8A6BFF&point=00C896" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jitenhudda&theme=github-dark&bg_color=000000&hide_border=true&line=58A6FF&point=79C0FF&color=C9D1D9&area=true&area_color=58A6FF" />
 
 </div>
 
----
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" height="4"/>
+</div>
+
+<br/>
 
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/2111/2111425.png" width="26"/>&nbsp; Connect With Me
