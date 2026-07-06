@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=JITEN%20HUDDA&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Final%20Year%20B.Tech%20CSE%20Student&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=JITEN%20HUDDA&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -109,17 +109,17 @@ I'm currently looking for internship opportunities in **AI/ML, Data Analytics, a
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,r,bash" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,r,c" />
 
 <br/><br/>
 
 **Machine Learning &amp; Deep Learning**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
 <img src="https://img.shields.io/badge/-XGBoost-006400?style=for-the-badge&logo=xgboost&logoColor=white" />
+<img src="https://img.shields.io/badge/-sklearn-006400?style=for-the-badge&logo=sklearnt&logoColor=white" />
+<img src="https://img.shields.io/badge/-tensorflow-006400?style=for-the-badge&logo=tensorflow&logoColor=white" />
 
 <br/><br/>
 
@@ -135,6 +135,9 @@ I'm currently looking for internship opportunities in **AI/ML, Data Analytics, a
 **Tools &amp; IDEs**
 
 <img src="https://skillicons.dev/icons?i=vscode,github,jupyter" />
+<img src="https://img.shields.io/badge/-vscode-F9AB00?style=for-the-badge&logo=vscode&logoColor=white" />
+<img src="https://img.shields.io/badge/-github-F9AB00?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/-jupyter-F9AB00?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 <img src="https://img.shields.io/badge/-Online%20Compilers-1E1E1E?style=for-the-badge&logo=codeium&logoColor=white" />
 
