@@ -28,6 +28,9 @@ Currently, I am expanding my expertise in Machine Learning, Deep Learning, MLOps
 - Python
 - SQL
 - C++
+- C
+- Java
+- R language
 
 ### Machine Learning
 
