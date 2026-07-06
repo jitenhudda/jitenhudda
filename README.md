@@ -146,36 +146,31 @@ I'm currently looking for internship opportunities in **AI/ML, Data Analytics, a
 
 </div>
 
-# GitHub Statistics
+## <img src="https://cdn-icons-png.flaticon.com/512/2103/2103832.png" width="26"/>&nbsp; Engineering Metrics
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jitenhudda&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jitenhudda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitenhudda&layout=compact&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitenhudda&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
 
-</p>
+<br/><br/>
 
----
+<img width="100%" src="https://streak-stats.demolab.com?user=jitenhudda&theme=tokyonight&hide_border=true" />
 
-# GitHub Streak
+<br/><br/>
 
-<p align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jitenhudda&theme=tokyo-night&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=jitenhudda&theme=tokyonight"/>
+</div>
 
-</p>
+<br/>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" height="4"/>
+</div>
 
-# Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jitenhudda&theme=tokyo-night"/>
-
-</p>
-
+<br/>
 ---
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/2111/2111425.png" width="26"/>&nbsp; Connect With Me
