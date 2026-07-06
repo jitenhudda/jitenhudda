@@ -1,151 +1,177 @@
-<h1 align="center">Hi, I'm Jiten Hudda 👋</h1>
+<h1 align="center">Hi 👋, I'm Jiten Hudda</h1>
 
 <h3 align="center">
-Final Year B.Tech Computer Science Engineering (AI & ML) Student<br>
+Final Year B.Tech Computer Science Engineering (AI & ML)<br>
 Amity University Punjab
 </h3>
 
 <p align="center">
-Machine Learning • Data Science • Artificial Intelligence • Python Developer
-</p>
-
----
-
-## About Me
-
-I am a Final Year **B.Tech Computer Science Engineering (Artificial Intelligence & Machine Learning)** student at **Amity University Punjab** with a strong interest in solving real-world problems using Machine Learning, Data Science, and Artificial Intelligence.
-
-I enjoy building end-to-end AI applications that combine data preprocessing, feature engineering, model development, and interactive dashboards into production-ready solutions. My focus is on writing clean, maintainable code and creating projects that demonstrate practical business value.
-
-Currently, I am expanding my expertise in Machine Learning, Deep Learning, MLOps, and Generative AI while continuously working on real-world portfolio projects.
-
----
-
-## Technical Skills
-
-### Programming Languages
-
-- Python
-- SQL
-- C++
-- C
-- Java
-- R language
-
-### Machine Learning
-
-- Scikit-learn
-- XGBoost
-- Random Forest
-- Logistic Regression
-- Support Vector Machine
-- Model Evaluation
-- Feature Engineering
-
-### Data Science
-
-- Pandas
-- NumPy
-- Data Cleaning
-- Data Visualization
-- Exploratory Data Analysis
-
-### Visualization
-
-- Plotly
-- Matplotlib
-- Streamlit
-
-### Databases
-
-- MySQL
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-
----
-
-## Current Focus
-
-- Machine Learning Engineering
-- Deep Learning
-- Data Analytics
-- MLOps
-- Generative AI
-- Production ML Applications
-
----
-
-## Featured Projects
-
-### Credit Risk Prediction System
-
-An end-to-end Machine Learning application for predicting customer loan default risk using automated preprocessing, feature engineering, model comparison, and an interactive Streamlit dashboard.
-
----
-
-### HealthSense AI
-
-A multi-disease prediction system capable of screening multiple diseases using Machine Learning models with a modern healthcare dashboard designed for patient-friendly interaction.
-
----
-
-### InsightForge
-
-An automated analytics platform for dataset profiling, data quality assessment, visualization, and business intelligence reporting.
-
----
-
-### Supply Chain Performance Intelligence
-
-A comprehensive data analytics project focused on supply chain optimization through Exploratory Data Analysis and interactive dashboards.
-
----
-
-## GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jitenhudda&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitenhudda&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+Machine Learning • Artificial Intelligence • Data Science • Python
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=jitenhudda&theme=github-dark&hide_border=true"/>
+<img src="https://komarev.com/ghpvc/?username=jitenhudda&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## GitHub Activity
+# About Me
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jitenhudda&theme=github-dark&hide_border=true"/>
-</p>
+I'm a Final Year **B.Tech CSE (Artificial Intelligence & Machine Learning)** student at **Amity University Punjab** passionate about building production-ready Machine Learning applications.
 
----
-
-## Professional Interests
+My interests include
 
 - Machine Learning
 - Artificial Intelligence
 - Data Science
 - Predictive Analytics
-- Business Intelligence
-- Healthcare AI
-- Financial Analytics
+- Computer Vision
+- Generative AI
+
+I enjoy solving real-world business problems through data-driven solutions and developing end-to-end ML applications using Python.
 
 ---
 
-## Connect With Me
+# Tech Stack
 
-- GitHub: https://github.com/jitenhudda
-- LinkedIn: https://www.linkedin.com/in/jiten-hudda/
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+
+</p>
+
+---
+
+# GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jitenhudda&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitenhudda&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=jitenhudda&theme=tokyonight"/>
+
+</p>
+
+---
+
+# Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jitenhudda&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# Featured Projects
+
+### CreditLens
+
+AI-powered Credit Risk Prediction System
+
+- Automated preprocessing
+- Feature Engineering
+- Multiple ML Models
+- Streamlit Dashboard
+
+---
+
+### HealthSense AI
+
+Machine Learning Healthcare Prediction Platform
+
+- Multi Disease Prediction
+- Doctor Workflow
+- Patient Reports
+- AI Predictions
+
+---
+
+### InsightForge
+
+Automated Data Analytics Platform
+
+- Data Profiling
+- Data Quality
+- Dashboard
+- Business Insights
+
+---
+
+### Supply Chain Performance Intelligence
+
+Business Intelligence Dashboard
+
+- EDA
+- Visualization
+- KPIs
+- Analytics
+
+---
+
+# Currently Learning
+
+- Deep Learning
+- MLOps
+- LLMs
+- Generative AI
+- Cloud Deployment
+
+---
+
+# Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/jitenhudda">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jiten-hudda/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-<i>"Building intelligent systems that transform data into meaningful decisions."</i>
+
+### "Transforming Data into Intelligent Solutions."
+
 </p>
