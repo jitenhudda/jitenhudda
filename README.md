@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=JITEN%20HUDDA&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20ML%20%2F%20AI%20Professional&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=JITEN%20HUDDA&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Final%20Year%20B.Tech%20CSE%20Student&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1000&color=8A6BFF&center=true&vCenter=true&width=650&lines=Final+Year+CSE+(AI+%26+ML)+Student;Machine+Learning+%7C+Deep+Learning+%7C+MLOps;Generative+AI+Enthusiast;Building+Real-World+AI+Systems;Always+Learning.+Always+Building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=8A6BFF&center=true&vCenter=true&width=600&lines=Final+Year+B.Tech+CSE+Student;Exploring+Machine+Learning+%26+AI;Focused+on+Generative+AI;Learning+by+Building+Real+Projects" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/-Amity%20University%20Punjab-0f0c29?style=for-the-badge&labelColor=302b63&color=8A6BFF" />
-<img src="https://img.shields.io/badge/-Final%20Year%20B.Tech%20CSE%20(AIML)-0f0c29?style=for-the-badge&labelColor=302b63&color=8A6BFF" />
+<img src="https://img.shields.io/badge/-Final%20Year%20B.Tech%20CSE-0f0c29?style=for-the-badge&labelColor=302b63&color=8A6BFF" />
 <img src="https://img.shields.io/badge/-Open%20to%20Opportunities-0f0c29?style=for-the-badge&labelColor=302b63&color=00C896" />
 
 </div>
@@ -30,29 +30,22 @@
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/48/graduation-cap.png" width="40"/><br/>
 <b>Education</b><br/>
 <sub>B.Tech CSE (AI &amp; ML)</sub><br/>
 <sub>Final Year · Amity University Punjab</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="40"/><br/>
-<b>Interests</b><br/>
-<sub>ML · Deep Learning</sub><br/>
-<sub>MLOps · Generative AI</sub>
-</td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/48/handshake.png" width="40"/><br/>
 <b>Status</b><br/>
 <sub>Open to Internships</sub><br/>
-<sub>AI/ML · Data · SWE Roles</sub>
+<sub>AI/ML · Data · Software Engineering</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/48/marker.png" width="40"/><br/>
 <b>Location</b><br/>
-<sub>Punjab, India</sub><br/>
-<sub>Open to Remote Work</sub>
+<sub>Chandigarh, India</sub>
 </td>
 </tr>
 </table>
@@ -69,19 +62,11 @@
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="26"/>&nbsp; About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="280"/>
+I'm a final-year Computer Science Engineering student specializing in **Artificial Intelligence &amp; Machine Learning**. I enjoy learning new technologies and building real-world AI/ML projects, with a growing focus on **Generative AI**.
 
-I'm a final-year Computer Science Engineering student specializing in **Artificial Intelligence &amp; Machine Learning**, currently building a strong foundation across the modern AI stack — from classical ML pipelines to deep learning and generative systems.
+I'm currently looking for internship opportunities in **AI/ML, Data Analytics, and Software Engineering**.
 
-I care about building things that actually work end-to-end: clean data pipelines, well-evaluated models, and interfaces that make the work usable — not just notebooks that stop at a metric.
-
-- 🔭 Currently deepening my skills in **MLOps** and **Generative AI**
-- 🌱 Learning to take models from experiment to production
-- 🤝 Looking for **internship opportunities** in AI/ML, Data Analytics &amp; Software Engineering
-- 💬 Happy to talk about model evaluation, data pipelines, or Streamlit apps
-- ⚡ Believer in learning by shipping — every project below is fully functional, not a tutorial clone
-
-<br clear="right"/>
+<br/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" height="4"/>
@@ -93,18 +78,18 @@ I care about building things that actually work end-to-end: clean data pipelines
 
 <div align="center">
 
-<table>
+<table width="90%">
 <tr>
 <th>Degree</th>
 <th>Institution</th>
 <th>Specialization</th>
-<th>Status</th>
+<th>Year</th>
 </tr>
 <tr>
-<td>B.Tech, Computer Science Engineering</td>
-<td>Amity University Punjab</td>
-<td>Artificial Intelligence &amp; Machine Learning</td>
-<td>Final Year</td>
+<td align="center">B.Tech, Computer Science Engineering</td>
+<td align="center">Amity University Punjab</td>
+<td align="center">Artificial Intelligence &amp; Machine Learning</td>
+<td align="center">Final Year</td>
 </tr>
 </table>
 
@@ -147,78 +132,11 @@ I care about building things that actually work end-to-end: clean data pipelines
 
 <br/><br/>
 
-**Web &amp; App Frameworks**
-
-<img src="https://skillicons.dev/icons?i=streamlit,flask,fastapi,html,css,js" />
-
-<br/><br/>
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb" />
-
-<br/><br/>
-
-**MLOps &amp; Cloud**
-
-<img src="https://skillicons.dev/icons?i=docker,git,githubactions,aws,gcp,linux" />
-
-<br/><br/>
-
 **Tools &amp; IDEs**
 
-<img src="https://skillicons.dev/icons?i=vscode,jupyter,githubactions,postman,figma" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" height="4"/>
-</div>
-
-<br/>
-
-## <img src="https://cdn-icons-png.flaticon.com/512/3037/3037415.png" width="26"/>&nbsp; Current Learning Roadmap
-
-<div align="center">
-
-<table width="90%">
-<tr><td width="30%"><b>MLOps &amp; Deployment</b></td>
-<td width="55%">
-
-`████████████████░░░░` 78%
-
-</td><td align="center">🟢 In Progress</td></tr>
-
-<tr><td><b>Generative AI &amp; LLMs</b></td>
-<td>
-
-`██████████████░░░░░░` 68%
-
-</td><td align="center">🟢 In Progress</td></tr>
-
-<tr><td><b>Deep Learning (CV &amp; NLP)</b></td>
-<td>
-
-`█████████████████░░░` 82%
-
-</td><td align="center">🟢 In Progress</td></tr>
-
-<tr><td><b>Data Engineering Pipelines</b></td>
-<td>
-
-`███████████████████░` 90%
-
-</td><td align="center">🔵 Advanced</td></tr>
-
-<tr><td><b>Cloud Platforms (AWS/GCP)</b></td>
-<td>
-
-`██████████░░░░░░░░░░` 52%
-
-</td><td align="center">🟡 Building Up</td></tr>
-</table>
+<img src="https://skillicons.dev/icons?i=vscode,github,jupyter" />
+<img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+<img src="https://img.shields.io/badge/-Online%20Compilers-1E1E1E?style=for-the-badge&logo=codeium&logoColor=white" />
 
 </div>
 
@@ -328,85 +246,6 @@ A data pipeline paired with a comprehensive SQL analytics suite to measure engin
 <br/>
 
 <div align="center">
-
-### Contribution Snake
-
-<img src="https://raw.githubusercontent.com/jitenhudda/jitenhudda/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-<sub>Generated automatically via GitHub Actions on each contribution</sub>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" height="4"/>
-</div>
-
-<br/>
-
-## <img src="https://cdn-icons-png.flaticon.com/512/2583/2583319.png" width="26"/>&nbsp; GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jitenhudda&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" height="4"/>
-</div>
-
-<br/>
-
-## <img src="https://cdn-icons-png.flaticon.com/512/4064/4064904.png" width="26"/>&nbsp; Coding Principles
-
-<div align="center">
-
-<table width="90%">
-<tr>
-<td align="center" width="25%">
-<b>Clarity First</b><br/>
-<sub>Readable code beats clever code</sub>
-</td>
-<td align="center" width="25%">
-<b>Data-Driven</b><br/>
-<sub>Decisions backed by evaluation, not assumption</sub>
-</td>
-<td align="center" width="25%">
-<b>End-to-End Ownership</b><br/>
-<sub>From raw data to deployable interface</sub>
-</td>
-<td align="center" width="25%">
-<b>Iterate Relentlessly</b><br/>
-<sub>Ship, measure, refine, repeat</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" height="4"/>
-</div>
-
-<br/>
-
-## <img src="https://cdn-icons-png.flaticon.com/512/8213/8213411.png" width="26"/>&nbsp; Current Goals
-
-- Land an internship in **AI/ML, Data Analytics, or Software Engineering**
-- Ship a production-style **Generative AI** project with real deployment
-- Strengthen **MLOps** fundamentals — CI/CD for ML, model monitoring, versioning
-- Contribute to open-source ML tooling
-- Deepen system design understanding for AI-backed applications
-
-<br/>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" height="4"/>
 </div>
 
@@ -424,9 +263,6 @@ A data pipeline paired with a comprehensive SQL analytics suite to measure engin
 </a>
 <a href="https://github.com/jitenhudda">
 <img src="https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0f0c29" />
-</a>
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=0f0c29" />
 </a>
 
 </div>
