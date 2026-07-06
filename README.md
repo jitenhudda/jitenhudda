@@ -113,31 +113,31 @@ I'm currently looking for internship opportunities in **AI/ML, Data Analytics, a
 
 <br/><br/>
 
-**Machine Learning &amp; Deep Learning**
+**Machine Learning & Deep Learning**
 
 <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/-XGBoost-006400?style=for-the-badge&logo=xgboost&logoColor=white" />
-<img src="https://img.shields.io/badge/-sklearn-006400?style=for-the-badge&logo=sklearnt&logoColor=white" />
-<img src="https://img.shields.io/badge/-tensorflow-006400?style=for-the-badge&logo=tensorflow&logoColor=white" />
 
 <br/><br/>
 
-**Data Analytics &amp; Visualization**
+**Data Analytics & Visualization**
 
-<img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
 <br/><br/>
 
-**Tools &amp; IDEs**
+**Tools & IDEs**
 
-<img src="https://skillicons.dev/icons?i=vscode,github,jupyter" />
-<img src="https://img.shields.io/badge/-vscode-F9AB00?style=for-the-badge&logo=vscode&logoColor=white" />
-<img src="https://img.shields.io/badge/-github-F9AB00?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/-jupyter-F9AB00?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=vscode,github,jupyter,colab,git" />
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 <img src="https://img.shields.io/badge/-Online%20Compilers-1E1E1E?style=for-the-badge&logo=codeium&logoColor=white" />
 
@@ -150,7 +150,6 @@ I'm currently looking for internship opportunities in **AI/ML, Data Analytics, a
 </div>
 
 <br/>
-
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/2103/2103832.png" width="26"/>&nbsp; GitHub Analytics
 
