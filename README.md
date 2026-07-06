@@ -1,137 +1,76 @@
 <div align="center">
 
-# Jiten Hudda
-
-**Machine Learning Engineer (Aspiring) · AI & Data Science**
-
-Final Year B.Tech, Computer Science Engineering (AI & ML) — Amity University Punjab
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=Jiten%20Hudda&fontSize=48&fontColor=58A6FF&fontAlignY=42&desc=Machine%20Learning%20%7C%20AI%20%7C%20Data%20Science%20Engineer&descAlignY=62&descColor=8b949e&descSize=17" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=6E7681&center=true&vCenter=true&width=600&lines=Building+production-ready+Machine+Learning+systems;Turning+data+into+decisions;Machine+Learning+%7C+Data+Science+%7C+MLOps+%7C+GenAI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Final+Year+B.Tech+CSE+(AI+%26+ML);Building+Production-Ready+ML+Systems;Machine+Learning+%7C+MLOps+%7C+Generative+AI" alt="Typing SVG" />
 </a>
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jitenhudda)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiten-hudda/)
+![Profile Views](https://komarev.com/ghpvc/?username=jitenhudda&style=flat-square&color=58A6FF&label=Profile+Views)
 
 </div>
 
 <br/>
+
+<div align="center">
 
 ## About Me
 
-I'm a final-year **B.Tech Computer Science Engineering (Artificial Intelligence & Machine Learning)** student at **Amity University Punjab**, focused on solving real-world problems with machine learning and data-driven systems.
+</div>
 
-I enjoy building end-to-end ML applications — from data preprocessing and feature engineering to model development and deployment-ready dashboards. My focus is on writing clean, maintainable code and shipping projects that demonstrate practical, measurable value rather than just notebook experiments.
+<table align="center" width="100%">
+<tr><td>
 
-I'm currently deepening my expertise in deep learning, MLOps, and generative AI while building out my project portfolio.
+I'm a final-year **B.Tech Computer Science Engineering (AI & ML)** student at **Amity University Punjab**, focused on solving real-world problems through machine learning and data-driven systems.
+
+I build end-to-end ML applications — from data preprocessing and feature engineering to model development and deployment-ready dashboards — with an emphasis on clean, maintainable code and measurable business value.
+
+Currently deepening my expertise in **deep learning, MLOps, and generative AI** while expanding my project portfolio.
+
+</td></tr>
+</table>
 
 <br/>
+
+<div align="center">
 
 ## Education
 
-| | |
-|---|---|
-| **Degree** | B.Tech, Computer Science Engineering (AI & ML) |
-| **Institution** | Amity University Punjab |
-| **Status** | Final Year (Expected Graduation 2027) |
+<table>
+<tr>
+<td align="center" width="560">
+
+**B.Tech, Computer Science Engineering (AI & ML)**
+<br/>
+Amity University Punjab
+<br/>
+<sub>Final Year · Expected Graduation 2027</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
-## Technical Skills
-
 <div align="center">
+
+## Tech Stack
 
 <img src="https://skillicons.dev/icons?i=python,cpp,mysql,sklearn,tensorflow,pytorch,git,github,vscode,jupyter&theme=dark" />
 
-</div>
+<br/><br/>
 
-<br/>
-
-| Category | Skills |
-|---|---|
-| **Languages** | Python, SQL, C++ |
-| **Machine Learning** | Scikit-learn, XGBoost, Random Forest, Logistic Regression, SVM, Feature Engineering, Model Evaluation |
-| **Data Science** | Pandas, NumPy, Data Cleaning, Data Visualization, Exploratory Data Analysis |
-| **Visualization** | Plotly, Matplotlib, Streamlit |
-| **Databases** | MySQL |
-| **Tools** | Git, GitHub, VS Code, Jupyter Notebook |
-
-<br/>
-
-## Current Focus
-
-- Machine Learning Engineering & Deep Learning
-- MLOps and model deployment pipelines
-- Generative AI applications
-- Business intelligence & predictive analytics (finance, healthcare, supply chain)
-
-<br/>
-
-## Featured Projects
-
-### [CreditLens](https://github.com/jitenhudda) — Credit Risk Prediction System
-End-to-end ML application for predicting customer loan default risk, with automated preprocessing, feature engineering, model comparison, and an interactive Streamlit dashboard.
-
-`Python` `Scikit-learn` `XGBoost` `Streamlit`
-
-<br/>
-
-### [HealthSense AI](https://github.com/jitenhudda) — Multi-Disease Prediction System
-A multi-disease screening system built on classical ML models, wrapped in a patient-friendly healthcare dashboard for accessible, real-time predictions.
-
-`Python` `Scikit-learn` `Streamlit`
-
-<br/>
-
-### [InsightForge](https://github.com/jitenhudda) — Automated Analytics Platform
-Automated dataset profiling, data quality assessment, and business intelligence reporting through interactive visualizations.
-
-`Python` `Pandas` `Plotly` `Streamlit`
-
-<br/>
-
-### [Supply Chain Performance Intelligence](https://github.com/jitenhudda)
-Data analytics project focused on supply chain optimization, using exploratory data analysis and interactive dashboards to surface bottlenecks and trends.
-
-`Python` `Pandas` `Matplotlib` `EDA`
-
-<br/>
-
-## GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jitenhudda&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitenhudda&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" height="165"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=jitenhudda&theme=github-dark&hide_border=true&background=0d1117"/>
-
-</div>
-
-<br/>
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jitenhudda&theme=github-compact&hide_border=true&bg_color=0d1117&color=6E7681&line=8A2BE2&point=ffffff" width="95%"/>
-
-</div>
-
-<br/>
-
-## Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jitenhudda)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiten-hudda/)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 </div>
 
@@ -139,6 +78,198 @@ Data analytics project focused on supply chain optimization, using exploratory d
 
 ---
 
+<br/>
+
 <div align="center">
-<i>"Building intelligent systems that transform data into meaningful decisions."</i>
+
+## Current Focus
+
+<table>
+<tr>
+<td align="center" width="220"><b>Machine Learning</b><br/><sub>Deep Learning & Model Engineering</sub></td>
+<td align="center" width="220"><b>MLOps</b><br/><sub>Deployment & Monitoring Pipelines</sub></td>
+<td align="center" width="220"><b>Generative AI</b><br/><sub>LLM-based Applications</sub></td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## Featured Projects
+
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### CreditLens
+**Credit Risk Prediction System**
+<br/><br/>
+End-to-end ML application for predicting loan default risk, with automated preprocessing, feature engineering, model comparison, and an interactive Streamlit dashboard.
+<br/><br/>
+![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python)
+![Sklearn](https://img.shields.io/badge/-Scikit--learn-0d1117?style=flat-square&logo=scikit-learn)
+![XGBoost](https://img.shields.io/badge/-XGBoost-0d1117?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### HealthSense AI
+**Multi-Disease Prediction System**
+<br/><br/>
+Multi-disease screening system built on classical ML models, wrapped in a patient-friendly healthcare dashboard for accessible, real-time predictions.
+<br/><br/>
+![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python)
+![Sklearn](https://img.shields.io/badge/-Scikit--learn-0d1117?style=flat-square&logo=scikit-learn)
+![Streamlit](https://img.shields.io/badge/-Streamlit-0d1117?style=flat-square&logo=streamlit)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### InsightForge
+**Automated Analytics Platform**
+<br/><br/>
+Automated dataset profiling, data quality assessment, and business intelligence reporting through interactive visualizations.
+<br/><br/>
+![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python)
+![Pandas](https://img.shields.io/badge/-Pandas-0d1117?style=flat-square&logo=pandas)
+![Plotly](https://img.shields.io/badge/-Plotly-0d1117?style=flat-square&logo=plotly)
+
+</td>
+<td width="50%" valign="top">
+
+### Supply Chain Intelligence
+**Supply Chain Performance Analytics**
+<br/><br/>
+Data analytics project focused on supply chain optimization, using exploratory data analysis and interactive dashboards to surface bottlenecks and trends.
+<br/><br/>
+![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python)
+![Pandas](https://img.shields.io/badge/-Pandas-0d1117?style=flat-square&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-0d1117?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub>Explore more on my <a href="https://github.com/jitenhudda?tab=repositories">Repositories</a></sub>
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## GitHub Overview
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jitenhudda&theme=github_dark" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jitenhudda&theme=github_dark" width="45%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=jitenhudda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitenhudda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" height="165"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=jitenhudda&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jitenhudda&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" width="95%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## Contribution Snake
+
+<img src="https://raw.githubusercontent.com/jitenhudda/jitenhudda/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
+<sub>Generated automatically via GitHub Actions on every contribution — see setup note below.</sub>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=jitenhudda&theme=darkhub&no-frame=true&column=7&margin-w=12&margin-h=12" width="95%"/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## Certifications
+
+<table>
+<tr>
+<td align="center" width="560">
+<sub><i>To be added as completed.</i></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jitenhudda)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiten-hudda/)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=120&section=footer"/>
+
+<sub><i>"Building intelligent systems that transform data into meaningful decisions."</i></sub>
+
 </div>
