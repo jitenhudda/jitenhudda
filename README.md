@@ -134,22 +134,13 @@ I'm currently looking for internship opportunities in **AI/ML, Data Analytics, a
 
 **Tools & IDEs**
 
-<img src="https://skillicons.dev/icons?i=vscode,github,colab,git" />
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,jupyter,github,git,gitlab,anaconda,linux,bash,postman,sqlite,figma" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-<img src="https://img.shields.io/badge/-Online%20Compilers-1E1E1E?style=for-the-badge&logo=codeium&logoColor=white" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" height="4"/>
-</div>
-
-<br/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/2103/2103832.png" width="26"/>&nbsp; GitHub Analytics
 
