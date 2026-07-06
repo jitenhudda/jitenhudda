@@ -146,28 +146,37 @@ I'm currently looking for internship opportunities in **AI/ML, Data Analytics, a
 
 </div>
 
-## <img src="https://cdn-icons-png.flaticon.com/512/2103/2103832.png" width="26"/>&nbsp; Engineering Metrics
+# GitHub Statistics
 
-<div align="center">
+<p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jitenhudda&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&count_private=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jitenhudda&show_icons=true&theme=tokyonight"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=jitenhudda&theme=github-dark-blue&hide_border=true&background=000000&ring=58A6FF&fire=79C0FF&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=FFFFFF&sideLabels=C9D1D9&dates=8B949E" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitenhudda&layout=compact&theme=tokyonight"/>
 
-<br><br>
+</p>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jitenhudda&theme=github-dark&bg_color=000000&hide_border=true&line=58A6FF&point=79C0FF&color=C9D1D9&area=true&area_color=58A6FF" />
+---
 
-</div>
+# GitHub Streak
 
-<br/>
+<p align="center">
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" height="4"/>
-</div>
+<img src="https://streak-stats.demolab.com?user=jitenhudda&theme=tokyonight"/>
 
-<br/>
+</p>
 
+---
+
+# Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jitenhudda&theme=tokyo-night"/>
+
+</p>
+
+---
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/2111/2111425.png" width="26"/>&nbsp; Connect With Me
 
