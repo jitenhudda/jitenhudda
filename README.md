@@ -134,7 +134,7 @@ I'm currently looking for internship opportunities in **AI/ML, Data Analytics, a
 
 **Tools & IDEs**
 
-<img src="https://skillicons.dev/icons?i=vscode,github,jupyter,colab,git" />
+<img src="https://skillicons.dev/icons?i=vscode,github,colab,git" />
 
 <br/><br/>
 
